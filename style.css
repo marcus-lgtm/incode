@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font: italic;
+}
+section{
+    text-align: center;
+    border-radius: 10px #fff;
+}
